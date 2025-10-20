@@ -18,8 +18,6 @@
 
 usando o log win + . se cria os emojis
 
-Segue Atividade feita em sala de aula.
-Escolhido a lista de desejos em python
 '''
 
 
